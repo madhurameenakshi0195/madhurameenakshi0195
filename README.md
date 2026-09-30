@@ -1,5 +1,4 @@
-## Hi there 👋
-Fun fact : your existence really doesn't matter !!!
+SUPPP
 
 <!--
 **madhurameenakshi0195/madhurameenakshi0195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
